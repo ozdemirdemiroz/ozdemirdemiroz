@@ -3,6 +3,9 @@
 - 🔭I have been working as an NPO engineer in the GSM sector for Türk Telekom for the past 14 years, specializing in base station testing , planning and and optimization.
 - 🌱I am currently in the process of learning Python, and I am striving to improve my proficiency in this programming language. 
 - 🤔 I am open to any kind of assistance to improve myself in Python programming.
+- 🤿 Open Water Diver  ,  tring to get his PADI Advanced Open Water Certification
+- 🏕️ I love camping , hiking & trekking 
+- 🪂 I try some extreme sports like paragliding, Rope jumping, etc. if I get the chance.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ozdemir.demiroz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozdemiroz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0zdemirDemiroz) 
